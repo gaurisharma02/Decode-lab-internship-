@@ -1,27 +1,63 @@
-# Decode-lab-internship-
-# 📝 To-Do List Application
+Python Programming Internship Projects
+Overview
+This repository contains Python projects completed as part of the DecodeLabs Industrial Training Program (Batch 2026). These projects focus on building strong programming fundamentals through practical problem-solving and hands-on coding.
 
-A simple command-line To-Do List application built using Python. This project allows users to add tasks, view tasks, and manage their daily activities through an easy-to-use menu-driven interface.
+Projects Included
+Project 1 - To-Do List Application
+A simple task management application that allows users to:
 
-## Features
+Add tasks
+View tasks
+Mark tasks as completed
+Delete tasks
+Project 2 - Expense Tracker
+A Python application that:
 
-- Add new tasks
-- View all tasks
-- Simple and user-friendly interface
-- Exit option to close the program
+Records expenses entered by the user
+Calculates total spending
+Demonstrates the use of accumulators and arithmetic operations
+Technologies Used
+Python 3
+Git
+GitHub
+Learning Objectives
+Python Fundamentals
+Variables and Data Types
+Loops and Conditional Statements
+Functions
+Lists and Dictionaries
+User Input Handling
+Problem Solving
+Git & GitHub Version Control
+Repository Structure
+Python-Internship-Projects/
+│
+├── ToDo_List/
+│   └── todo.py
+│
+├── Expense_Tracker/
+│   └── expense_tracker.py
+│
+└── README.md
+How to Run
+Clone the repository:
 
-## Technologies Used
+git clone <repository-link>
+Navigate to the project folder:
 
-- Python 3
+cd Python-Internship-Projects
+Run any project:
 
-## How to Run
+python filename.py
+Internship Details
+Organization: DecodeLabs
+Program: Industrial Training Program 2026
+Domain: Python Programming
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Run the following command:
+Author
+GAURI SHARMA
 
-```bash
-python todolist.py
-
+Acknowledgement
+Special thanks to DecodeLabs for providing practical learning opportunities through project-based training.
 
 
