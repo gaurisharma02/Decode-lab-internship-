@@ -23,4 +23,5 @@ A simple command-line To-Do List application built using Python. This project al
 ```bash
 python todolist.py
 
-AUTHOR- GAURI SHARMA
+
+
